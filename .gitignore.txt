@@ -1,0 +1,4 @@
+*.xml
+*.reg
+/target
+/bin
